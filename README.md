@@ -1,6 +1,8 @@
 # create free server in dply.co from terminal
 
-**dply started to use reCAPTCHA, rendering this tool useless (for now)**
+**Update 1. dply started using reCAPTCHA. This tool is useless now.**
+
+**Update 2. dply does not work anymore.**
 
 - Use `dply -h/--help` to get help about the options.
 - Use `dply list` to get lists of OS and region codes.
